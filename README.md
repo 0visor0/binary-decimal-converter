@@ -14,16 +14,16 @@ Or Try Windows Subsystem for Linux (WSL) in WINDOWS, simply open Windows Store, 
 
 Open your Linux Terminal, now follow the steps to download gcc script if not installed previously and change directory as per desire:
 
-  Step 1: Update and Upgrade your system first, type
-		      > sudo apt update && sudo apt upgrade
+  	Step 1: Update and Upgrade your system first, type
+		> sudo apt update && sudo apt upgrade
 
-  STEP 2: To Download g++ script, type
+  	STEP 2: To Download g++ script, type
 		      > sudo apt-get install gcc
 				
 	(Note: apply this step onli if gcc is not installed)
 		
-  Step 3: Change to your Desired Directory to save the File or just stay in current Directory.
-		      (To Change the directory say you want to switch it to folder called projects, type > cd /projects)
+  	Step 3: Change to your Desired Directory to save the File or just stay in current Directory.
+		(To Change the directory say you want to switch it to folder called projects, type > cd /projects)
 				
 If you are using WSL then open the Downloaded Terminal and follow the following steps:
 
